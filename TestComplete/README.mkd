@@ -1,0 +1,1 @@
+O projeto do TestComplete foi postado no seguinte diretório: https://github.com/Rodrigofarnum/TestComplete
