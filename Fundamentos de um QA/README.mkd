@@ -1,0 +1,19 @@
+# Casos de Teste Realizados
+
+Abaixo estão alguns dos casos de teste que realizei utilizando as ferramentas **Cypress** e **TestComplete**.
+
+## Cypress
+
+- [Caso de Teste 01 - Login](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2001_Login.pdf)
+- [Caso de Teste 02 - Cadastro](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2002%20_Cadastro.pdf)
+- [Caso de Teste 03 - Apresentação](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2003%20_Apresenta%C3%A7%C3%A3o.pdf)
+- [Caso de Teste 04 - API Mensagens](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2004%20-_API_mensagens.pdf)
+
+## TestComplete
+
+- [Caso de Teste 01 - Login](https://github.com/Rodrigofarnum/TestComplete/blob/main/Adopet%20-%20TestComplete/Evid%C3%AAncias%20de%20Teste/Casos%20de%20Testes/Caso%20de%20Teste%2001%20-%20Login.pdf)
+- [Caso de Teste 02 - Cadastro](https://github.com/Rodrigofarnum/TestComplete/blob/main/Adopet%20-%20TestComplete/Evid%C3%AAncias%20de%20Teste/Casos%20de%20Testes/Caso%20de%20Teste%2002%20-%20Cadastro.pdf)
+- [Caso de Teste 03 - API Mensagem](https://github.com/Rodrigofarnum/TestComplete/blob/main/Adopet%20-%20TestComplete/Evid%C3%AAncias%20de%20Teste/Casos%20de%20Testes/Caso%20de%20Teste%2003%20-%20APImensaagem.pdf)
+
+
+Esses são exemplos de casos de teste realizados durante o desenvolvimento de automações para o sistema Adopet. Os arquivos estão disponíveis para consulta e análise detalhada.
